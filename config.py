@@ -1,0 +1,1 @@
+JP_API_KEY = "c48212d7a6msh0749ca07062c951p1d91dcjsn457de6d0ed23"

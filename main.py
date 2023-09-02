@@ -1,7 +1,9 @@
 from tkinter import *
+import config
 import requests
 
-API_KEY = 'c48212d7a6msh0749ca07062c951p1d91dcjsn457de6d0ed23'
+
+API_KEY = config.JP_API_KEY
 API_HOST = 'wiki-briefs.p.rapidapi.com'
 
 
